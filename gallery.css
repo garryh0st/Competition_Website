@@ -1,0 +1,11 @@
+
+body, html{
+  margin: 0;
+  background: #000000;
+  font-family: 'Poppins', sans-serif;
+  color: aliceblue;
+}
+
+.container{
+ padding: 1cm;
+}
